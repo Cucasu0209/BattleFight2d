@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1.Scenes/_Main/Login.unity
+    guid: 3da123e728b363746b25d98bd8269fa8
+  - enabled: 1
+    path: Assets/1.Scenes/_Main/_Root.unity
+    guid: aec41342e1156cc4788b41a689dd54e7
+  - enabled: 1
+    path: Assets/1.Scenes/_Main/BattleFightOnline.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/1.Scenes/_Main/Loading.unity
+    guid: cc713225b9574004da20ca4f72fca3a2
+  - enabled: 1
+    path: Assets/1.Scenes/_Main/Looby.unity
+    guid: 0ecabf30f28303c46bdac78cb1a445fb
+  - enabled: 1
+    path: Assets/1.Scenes/_Main/MainMenu.unity
+    guid: 543f0a2b3a5b30d488ffca5634fe34a9
+  - enabled: 1
+    path: Assets/1.Scenes/_Main/Room.unity
+    guid: ce7ed553da3799f4998082efb3576f41
+  m_configObjects: {}
