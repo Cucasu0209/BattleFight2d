@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: trung.nq24092000@gmail.com
+  DevAccountToken: cwao4ckg1cq7pgt7fk9krkqpz3iueefkqfguehxnsa58cqe9gui3rh9sjro5ug96caufyr55gw99y4nxu985jc6p1xwedg6e9nf8nr5hk5dgpa8ui7espd7xb3tcncnbjd9zcghbirxtp4bh4xcugpjyzwxgkx6xw458iyammkbjuknw5jgr533mzd8du7z4efz4wy8t
+  SelectedStudio: BattleFightOnline2D
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0
