@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
   m_Name: PlayFabEditorPrefsSO
   m_EditorClassIdentifier: 
-  DevAccountEmail: trung.nq24092000@gmail.com
-  DevAccountToken: cwao4ckg1cq7pgt7fk9krkqpz3iueefkqfguehxnsa58cqe9gui3rh9sjro5ug96caufyr55gw99y4nxu985jc6p1xwedg6e9nf8nr5hk5dgpa8ui7espd7xb3tcncnbjd9zcghbirxtp4bh4xcugpjyzwxgkx6xw458iyammkbjuknw5jgr533mzd8du7z4efz4wy8t
-  SelectedStudio: BattleFightOnline2D
-  SdkPath: Assets/PlayFabSDK
+  DevAccountEmail: 
+  DevAccountToken: 
+  SelectedStudio: 
+  SdkPath: 
   EdExPath: 
   LocalCloudScriptPath: 
   PanelIsShown: 0
-  curMainMenuIdx: 1
+  curMainMenuIdx: 0
   curSubMenuIdx: 0
